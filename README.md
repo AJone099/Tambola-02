@@ -1,2 +1,2 @@
-# Tambola-02
-The second stage of my tambola project.
+# Project-solution-204
+Tambola game stage-1
